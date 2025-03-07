@@ -19,7 +19,7 @@ p{
     text-align: center;
     color: white;
 }
-h1,h5{
+h1,h5,h2{
     text-align: center;
     color: white;
 }
@@ -64,5 +64,11 @@ a{
 
 .content {
     padding: 20px;
+    text-align: center;
+}
+
+.tabela{
+    border: 1px solid white;
+    color: white;
     text-align: center;
 }
